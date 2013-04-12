@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Lesbian and Gay Liberation in Canada: 1964</title>
+
+<!-- Assignment 3: Creating a web mapping application. This application takes data from a KML file and places it simultaneously on a Simile Timeline and a 
+	Google Map. Built using the TimeMap javascript library-->
+	
+<!-- Calls the Google API -->
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<!-- loads the TimeMap javascript libraries for jquery, Simile Timeline, and the loaders that place the kml data simultaneously on the timeline and the map -->
+	
+    <script type="text/javascript" src="http://michelle.koenig-schwartz.com/GIS/timemap/lib/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="http://michelle.koenig-schwartz.com/GIS/timemap/lib/mxn/mxn.js?(googlev3)"></script>
+    <script type="text/javascript" src="http://michelle.koenig-schwartz.com/GIS/timemap/lib/timeline-2.3.0.js"></script>
+    <script src="http://michelle.koenig-schwartz.com/GIS/timemap/src/timemap.js" type="text/javascript"></script>
+    <script src="http://michelle.koenig-schwartz.com/GIS/timemap/src/param.js" type="text/javascript"></script>
+    <script src="http://michelle.koenig-schwartz.com/GIS/timemap/src/loaders/xml.js" type="text/javascript"></script>
+    <script src="http://michelle.koenig-schwartz.com/GIS/timemap/src/loaders/kml.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+var tm;
+$(function() {
+	
+	    // make a custom map style for the Google Map
+    var styledMapType = new google.maps.StyledMapType([
+        {
+            featureType: "water",
+            elementType: "all",
+            stylers: [
+              { saturation: 0 },
+              { lightness: 100 }
+            ]
+        },
+        {
+            featureType: "all",
+            elementType: "all",
+            stylers: [
+              { saturation: -100 }
+            ]
+        }
+    ], {
+        name: "white"
+    });
+    
+    // function to initialize the timeline, populating it with data from the kml file 
+    tm = TimeMap.init({
+        mapId: "map",               // Id of map div element (required)
+        timelineId: "timeline",     // Id of timeline div element (required) 
+        options: {
+            eventIconPath: "http://michelle.koenig-schwartz.com/GIS/timemap/images/"
+        },
+        datasets: [
+            {
+                title: "LGLC 1964",
+                theme: "green",
+                type: "kml", 
+                options: {
+                    url: "1964.kml", // KML file to load
+                    // array of ExtendedData elements to look for
+                    extendedData: ["Location", "Type", "Description", "Url", "theme"],
+                    tagMap: {
+                        "Type":"Type"
+                    },
+                    // template for the loaded data, showing how it will look in the pop up window for each marker
+                    infoTemplate: '<strong><a href="{{Url}}" target="_blank">{{title}}, ' +
+                                  '{{Location}}</a></strong><br><br>' +
+                                  '<strong>Type:</strong> {{Type}}<br>' +
+                                  '<strong>Description:</strong> {{Description}}<br>'
+                }
+            }
+        ],
+        //customize the size and zoom level of both bands of the timeline
+        bandInfo: [
+            {
+               width:          "85%", 
+               intervalUnit:   Timeline.DateTime.MONTH, 
+		       intervalPixels: 100
+            },
+            {
+               width:          "15%", 
+               intervalUnit:   Timeline.DateTime.YEAR, 
+		       intervalPixels: 200,
+               showEventText:  false,
+               trackHeight:    0.3,
+               trackGap:       0.1
+            }
+        ]
+    });
+    
+    // set the map to the custom style
+    var gmap = tm.getNativeMap();
+    gmap.mapTypes.set("white", styledMapType);
+    gmap.setMapTypeId("white");
+    
+    
+    
+});
+    </script>
+    <!-- connects with the CSS file -->
+    <link href="http://michelle.koenig-schwartz.com/GIS/timemap/1964.css" type="text/css" rel="stylesheet"/>
+    <!-- sets additional styles for the timeline and map divs -->
+    <style>
+    div#timelinecontainer{ height: 300px; }
+    div#mapcontainer{ height: 400px; }
+    </style>
+  </head>
+
+<!-- the body of the page, including the header, the map, the timeline, and the description -->
+  <body>
+    <div id="text">
+    	<h1>Lesbian and Gay Liberation in Canada, 1964</h1>
+    	<p id="intro">Lesbian and gay liberation events in Canada in the year 1964. Data taken from Lesbian and Gay Liberation in Canada (LGLC).
+    </p>
+    </div>
+    <div id="timemap">
+
+        <div id="mapcontainer">
+          <div id="map"></div>
+        </div>
+        
+        <div id="timelinecontainer">
+          <div id="timeline"></div>
+        </div>
+    </div>
+    
+    <div id="text">
+    	<p id="intro"> 
+    		Lesbian and Gay Liberation in Canada (LGLC) is a pilot project within the Canadian Writing Research Collaboratory. The LGLC project reconfigures Donald McLeod’s monograph, Lesbian and Gay Liberation In Canada: A Selected Annotated Chronology, 1964-1975, as a digital resource which, in addition to reproducing the text, will let researchers trace the events of the gay liberation movement using maps and timelines; model the shifting identities of the actors within the text; contribute personal reflections about the events in the text; and critically evaluate the relationship between the text and the bibliographic material that make up its base.
+		</p>
+		<p id="intro">
+			Lesbian and Gay Liberation in Canada: A Selected Annotated Chronology, 1964-1975 was originally published in print by Homewood Books in 1996. The book consists of a chronology of the first twelve years of the “organized homophile/gay liberation movement in Canada.” The start date of the chronology corresponds with the formation of the Vancouver-based Association for Social Knowledge (ASK), the first large-scale homophile organization in Canada. The end date coincides with the founding of the National Gay Rights Coalition/Coalition national pour les droits des homosexuels (NGRC/CNDH), the “first truly national coalition of Canadian lesbian and gay groups” (McLeod, Lesbian and Gay Liberation In Canada viii). The word “selected” in the title refers to the limits that were placed on the covered material—the book focuses primarily on “self-declared lesbians and gay men and their activities in regard to the forging of lesbian and gay communities and liberation in Canada.” Therefore, the book dedicates its foremost attention to demonstrations, political actions, lobbying, and legal reforms. 
+   		</p>
+   		
+   		<h2>Credits:
+      	</h2>
+      <p id="intro">
+      <b>Data from:</b> <i><a href="http://www.cwrc.ca/projects/infrastructure-projects/pilot-projects/lesbian-and-gay-liberation-in-canada/">Lesbian and Gay Liberation in Canada (LGLC)</a></i>, Constance Crompton and Michelle Schwartz, Canadian Writing Research Collaboratory.<br>
+      </p>
+    </div>
+  </body>
+</html>

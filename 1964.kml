@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+    <Document>
+      
+      <Placemark>
+        <name>January 13th, 1964</name>
+        <TimeStamp><when>1964-01-13</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Nathan Cohen commented in his "Monday Miscellany" column in the Toronto Daily Star that local police feared that recently closed        after-hours clubs had reopened as "hangouts
+              for male and female homosexuals." On January 21, James
+                Egan's letter of rebuttal, "Police Concern for Homosexual Clubs
+              'Illogical,' " was published in the Star. Egan was
+              Canada's foremost gay activist during the period 1949-64. (See also August
+              5,14,1964.) </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-8</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.4042,43.6481,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>February, 1964</name>
+        <TimeStamp><when>1964-02-01</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Jane Rule's first novel. The
+              Desert of the Heart, was published by Seeker &amp; Warburg in
+              England and Macmillan of Canada. An American edition was released by World
+              Publishing of New York later in 1964. A classic of
+              lesbian literature concerning the relationship between a divorcee and a
+              free-spirited woman in Reno, Nevada, during the 1950s, The
+                Desert of the Heart has been reprinted many times, and was adapted
+              by Donna Deitch into the film Desert Hearts in 1985. 
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-9</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.4042,43.6481,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>February, 1964</name>
+        <TimeStamp><when>1964-02-22</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Maclean's published a two-part series by Sidney Katz entitled "The Homosexual Next Door: A
+              Sober Appraisal of a New Social Phenomenon." These are believed to be the first
+              full-scale articles in a mainstream Canadian publication to take a generally
+              positive view of homosexuality. Katz was influenced in his views through contact
+              with James Egan, Canada's most prominent gay
+              activist for the period 1949-64. The articles
+              were later reprinted in a pamphlet of the same name by Pan-Graphic Press of San
+              Francisco in its Mattachine Review Reprint Series. 
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-10</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.4042,43.6481,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>March, 1964</name>
+        <TimeStamp><when>1964-03-09</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Osgoode Hall, Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>A joint meeting of the Catholic legal
+              and medical guilds held at Osgoode Hall agreed unanimously that although
+              homosexuality is a sin, it ought not to be a crime.
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-11</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.3872,43.6511,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>March 20, 1964</name>
+        <TimeStamp><when>1964-03-20</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Saint-Denis Theatre, Montreal</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Pierre Patry's film 
+              Trouble-fête, in which Camille
+                Ducharme played a predatory homosexual, opened at the Saint-Denis
+              theatre.
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-12</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-73.5627,45.5147,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>March 30, 1964</name>
+        <TimeStamp><when>1964-03-30</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Gay Publishing Company, Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>The first issue of the magazine Gay appeared. Published by the Gay
+              Publishing Company, 122 Wellington Street W., it was, one of the earliest
+              periodicals to use the word "gay" in its title. Gay was a tabloid containing general articles on homosexuality
+              (some reprinted from American homophile publications), fiction, photos, local
+              gossip, jokes and cartoons, and personal ads. It was renamed Gay International with issue twelve (January 1965), and moved to 980 Queen Street E. It
+              probably ceased publication after issue fifteen (about July 1965). 
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-13</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.3835,43.6465,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>April, 1964</name>
+        <TimeStamp><when>1964-04</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>United Church of Canada Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>"Christian Attitudes toward
+              Homosexuality," an article by Dr. Tibor Chikes,
+              professor of pastoral care at the Wesley Theological Seminary, Washington, D.C.,
+              was reprinted (from Concern, 15 June 1963) in the
+              1964 annual report of the Board of Evangelism and
+              Social Service of the United Church of Canada. Dr. Chikes argued that the
+              self-organization of homosexuals and attempts to "glamorize" homosexuality are
+              useless and that articles and books written by practising homosexuals that try
+              to further "the homosexual revolution . . . do homosexuals more harm than good."
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-14</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.521,43.6453,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>April, 1964</name>
+        <TimeStamp><when>1964-04</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>House of Commons, Ottawa</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Member of Parliament Arnold Peters (NDP-Temiskaming) was preparing to
+              introduce a private Members bill calling for the modification of the Canadian
+              Criminal Code to decriminalize homosexual acts between consenting adults in
+              private. The bill never reached the floor of the House of Commons. Peters may
+              have been influenced by the lobbying efforts of Garrfield
+                D. Nichol (pseud, of Gary
+                  Nichols) of the Committee on Social Hygiene, Stittsville,
+              Ontario. The Committee on Social Hygiene, pretty much a one-person operation,
+              had been formed in 1963 to investigate the extent of
+              homosexuality in eastern Canada and to quietly lobby for reforms to the Canadian
+              Criminal Code. (See also May 26,1965.)  
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-15</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.6933,45.4253,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>April, 1964</name>
+        <TimeStamp><when>1964-04</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Vancouver</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>The Association for Social Knowledge (ASK), the
+              first homophile organization in Canada, was officially formed. It was inspired
+              by the activities of the Mattachine Society in the United States, and was
+              encouraged by Bruce Somers, a Vancouver interior decorator, who became ASK'S first
+              president, ASK was an independent organization established "to help society to
+              understand and accept variations from the sexual norm." Its membership was
+              almost equally divided between gay men and lesbians from the beginning, ASK
+              supported law reform and sponsored public lectures and discussion groups, coffee
+              parties (Gab 'N' Java), social events and outings, a lending library, and,
+              eventually, a drop-in and community centre. The ASK Newsletter was filled with serious articles (some reprinted
+              from other sources), news of local events, and Association news, ASK collapsed
+              in the summer of 1965 but revived the next year; it disbanded early in 1969.   
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-16</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-123.1119,49.2505,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>June 27, 1964</name>
+        <TimeStamp><when>1964-06-27</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>63 Highcliffe Avenue, Hamilton</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Several hundred gay men from the
+              Golden Horseshoe area attended a gala, open-air bottle party held at the home of
+              Robert C. Hart, 63 Highcliffe Avenue. The
+              party was raided by the police, who complained of noise, and the guests were
+              forced to leave. 
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-24</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.8672,43.2428,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>Summer, 1964</name>
+        <TimeSpan><begin>1964-07-01</begin><end>1964-09-24</end></TimeSpan>
+        <ExtendedData>
+          <Data name="Location">
+            <value>457 Church Street, Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Belcher and McGauty undertook a
+              personal vendetta to harass and attempt to close the city's private gay clubs.
+              Over several months the officers conducted a systematic campaign of harassment
+              and threats against club managers and members, culminating in the laying of a
+              charge of gross indecency against two men who were observed dancing together at
+              the Melody Room, 457 Church Street. During the preliminary hearing. Belcher and
+              McGauty produced conflicting testimony and the charges were dropped on September 24, 1964. The two detectives were not
+              deterred, and they returned to the Melody Room in early 1965. At that time their disorderly conduct and verbal abuse led the
+              manager to have them charged with trespassing after they refused to leave the
+              club. (See also August 5,14,1964.)
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-26</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.3802,43.6641,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>August 3, 1964</name>
+        <TimeStamp><when>1964-08-03</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Gattineau, Quebec</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Qué. Member of Parliament Louis-Joseph Pigeon
+              (pc-Joliette-L'Assomption-Montcalm), forty-two, was charged with indecently
+              assaulting eighteen-year-old Raymond Emond on
+              the main street of Hull, Québec. Emond claimed
+              that Pigeon had led him into a laneway where he had made indecent propositions,
+              upon which a struggle ensued. The charge was dropped when Judge Avila Labelle ruled that the Crown had not proved
+              guilt beyond a reasonable doubt. 
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-31</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.7,45.477,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>November 30, 1964</name>
+        <TimeStamp><when>1964-11-30</when></TimeStamp>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Ministry of Justice, Ottawa, Ontario</value>
+          </Data>
+          <Data name="Type">
+            <value>Event</value>
+          </Data>
+          <Data name="Description">
+            <value>Member of Parliament Arnold Peters (NDP- Temiskaming) alleged that a
+              former (unnamed) warden of St. Vincent de Paul penitentiary kept two homosexuals
+              in the administration building at the prison and was a disgrace to the
+              penitentiary service. The Ministry of Justice launched an investigation into the
+              allegation. 
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>n64.body.div-44</value>
+          </Data>
+          <Data name="theme">
+            <value>blue</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.6965,45.4208,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>Association for Social Knowledge (ASK)</name>
+        <TimeSpan><begin>1964-04</begin><end>1965-08</end></TimeSpan>
+        <ExtendedData>
+          <Data name="Location">
+            <value>653 Commercial Drive, Vancouver</value>
+          </Data>
+          <Data name="Type">
+            <value>Organization</value>
+          </Data>
+          <Data name="Description">
+            <value>The Association for Social Knowledge (ASK), the
+              first homophile organization in Canada, was officially formed. It was inspired
+              by the activities of the Mattachine Society in the United States, and was
+              encouraged by Bruce Somers, a Vancouver interior decorator, who became ASK'S first
+              president, ASK was an independent organization established "to help society to
+              understand and accept variations from the sexual norm." Its membership was
+              almost equally divided between gay men and lesbians from the beginning, ASK
+              supported law reform and sponsored public lectures and discussion groups, coffee
+              parties (Gab 'N' Java), social events and outings, a lending library, and,
+              eventually, a drop-in and community centre. The ASK Newsletter was filled with serious articles (some reprinted
+              from other sources), news of local events, and Association news, ASK collapsed
+              in the summer of 1965 but revived the next year; it disbanded early in 1969.   
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>ASK</value>
+          </Data>
+          <Data name="theme">
+            <value>red</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-123.4,49.28,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>Committee on Social Hygiene</name>
+        <TimeSpan><begin>1963-05</begin><end>1965-05</end></TimeSpan>
+        <ExtendedData>
+          <Data name="Location">
+            <value>Stittsville, Ontario</value>
+          </Data>
+          <Data name="Type">
+            <value>Organization</value>
+          </Data>
+          <Data name="Description">
+            <value>The Committee on Social Hygiene, a one man operation run by Garrfield
+              D. Nichol (pseud, of Gary
+              Nichols),
+              had been formed in 1963 to investigate the extent of
+              homosexuality in eastern Canada and to quietly lobby for reforms to the Canadian
+              Criminal Code.
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>CSH</value>
+          </Data>
+          <Data name="theme">
+            <value>red</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-75.92,45.258,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>Gay International</name>
+        <TimeSpan><begin>1964</begin><end>1965</end></TimeSpan>
+        <ExtendedData>
+          <Data name="Location">
+            <value>980 Queen Street E., Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Publication</value>
+          </Data>
+          <Data name="Description">
+            <value>Each issue was printed with two different covers, but with identical content
+              continued from Gay.
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>p31</value>
+          </Data>
+          <Data name="theme">
+            <value>yellow</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.3398,43.6611,0</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>Two Newsletter</name>
+        <TimeSpan><begin>1964</begin><end>1966</end></TimeSpan>
+        <ExtendedData>
+          <Data name="Location">
+            <value>292 Yonge Street, Toronto</value>
+          </Data>
+          <Data name="Type">
+            <value>Publication</value>
+          </Data>
+          <Data name="Description">
+            <value>Printed by Kamp Publishing Company.
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>p97</value>
+          </Data>
+          <Data name="theme">
+            <value>yellow</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-79.3807,43.6561,0</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>ASK Newsletter</name>
+        <TimeSpan><begin>1964</begin><end>1968</end></TimeSpan>
+        <ExtendedData>
+          <Data name="Location">
+            <value>653 Commercial Dr., Vancouver</value>
+          </Data>
+          <Data name="Type">
+            <value>Publication</value>
+          </Data>
+          <Data name="Description">
+            <value>Produced by the Association for Social Knowledge (ASK).
+            </value>
+          </Data>
+          <Data name="Url">
+            <value>https://tspace.library.utoronto.ca/handle/1807/4397</value>
+          </Data>
+          <Data name="id">
+            <value>p31</value>
+          </Data>
+          <Data name="theme">
+            <value>yellow</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>-123.4,49.28,0</coordinates>
+        </Point>
+      </Placemark>
+    
+      
+     </Document>
+
+
+
+
+
+
+</kml>
